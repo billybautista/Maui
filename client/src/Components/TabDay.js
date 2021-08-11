@@ -40,23 +40,6 @@ function TabDay() {
             onLongPress={() => alert('Hola')}
             delayLongPress={100}
           />
-
-          <BalanceCard
-            name="Jorge"
-            price="$1230"
-            type="Venta"
-            date="14/6"
-            onLongPress={() => alert('Hola')}
-            delayLongPress={100}
-          />
-          <BalanceCard
-            name="Jorge"
-            price="$1230"
-            type="Venta"
-            date="14/6"
-            onLongPress={() => alert('Hola')}
-            delayLongPress={100}
-          />
           <BalanceCard
             name="Jorge"
             price="$1230"

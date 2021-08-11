@@ -23,22 +23,6 @@ function LastTransactions() {
           <BalanceCard
             name="Jorge"
             price="$1230"
-            type="Venta"
-            state="recibido"
-            onLongPress={() => alert('Hola')}
-            delayLongPress={100}
-          />
-          <BalanceCard
-            name="Jorge"
-            price="$1230"
-            type="Venta"
-            state="no pagado"
-            onLongPress={() => alert('Hola')}
-            delayLongPress={100}
-          />
-          <BalanceCard
-            name="Jorge"
-            price="$1230"
             type="Compra"
             state="pagado"
             onLongPress={() => alert('Hola')}
